@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/quick_foodie.iml" filepath="$PROJECT_DIR$/quick_foodie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/quick_foodie_android.iml" filepath="$PROJECT_DIR$/android/quick_foodie_android.iml" />
+    </modules>
+  </component>
+</project>
